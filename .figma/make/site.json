@@ -1,0 +1,18 @@
+{
+  "title": "ONE OF ONE STUDIO",
+  "description": "Explore ONE OF ONE’s branding and design services, studio, and project case studies, or submit an inquiry through the responsive creative studio website.",
+  "language": "EN",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
