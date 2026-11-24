@@ -2,19 +2,19 @@
 
 @font-face {
   font-family: "Archivo:SemiBold";
-  src: url("https://static.figma.com/font/Archivo_wdth_wght__1") format("woff2");
+  src: url("/assets/fonts/Archivo-SemiBold.ttf");
   font-style: normal;
   font-weight: 600;
 }
 @font-face {
   font-family: "Barlow:Regular";
-  src: url("https://static.figma.com/font/Barlow-Regular_2") format("woff2");
+  src: url("/assets/fonts/Barlow-Regular.ttf");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Gowun Batang:Regular";
-  src: url("https://static.figma.com/font/GowunBatang-Regular_1") format("woff2");
+  src: url("/assets/fonts/GowunBatang-Regular.ttf");
   font-style: normal;
   font-weight: 400;
 }
