@@ -33,7 +33,7 @@ const featured: Project[] = [
 
 const work: Project[] = [
   { slug: "behind-the-project", name: "BEHIND THE PROJECT", category: "01", image: "cbdb7.png" },
-  { slug: "tfj", name: "TFJ", category: "02", image: "5810d.png" },
+  { slug: "tfj", name: "TFW", category: "02", image: "5810d.png" },
   { slug: "off-grid", name: "OFF GRID", category: "03", image: "1bf62.jpg" },
   {
     slug: "root-nova",
@@ -170,7 +170,7 @@ const caseStudies: Record<string, CaseStudyContent> = {
     ],
   },
   tfj: {
-    title: "TFJ",
+    title: "TFW",
     discipline: "Monogram & Packaging Design",
     sections: [
       {
